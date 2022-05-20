@@ -4,3 +4,6 @@
 [submodule "image-processor"]
 	path = image-processor
 	url = https://github.com/yasinbastug/image-processor.git
+[submodule "cryptozombies-lesson-code"]
+	path = cryptozombies-lesson-code
+	url = https://github.com/loomnetwork/cryptozombies-lesson-code.git
