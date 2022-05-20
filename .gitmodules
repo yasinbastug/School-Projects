@@ -1,3 +1,6 @@
 [submodule "Ultimate-Battleships"]
 	path = Ultimate-Battleships
 	url = https://github.com/yasinbastug/Ultimate-Battleships.git
+[submodule "image-processor"]
+	path = image-processor
+	url = https://github.com/yasinbastug/image-processor.git
